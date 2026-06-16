@@ -1,5 +1,7 @@
 # frontend-starter
 
+This is my personal setup when hacking on frontend stuff
+
 A minimal starter template: **Rsbuild + React 19 + React Router + shadcn/ui + Tailwind CSS v4**, with dark mode wired up.
 
 ## Stack
