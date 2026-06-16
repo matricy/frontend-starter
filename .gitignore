@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+
+# Logs
+*.log*
+npm-debug.log*
+
+# Local env files (keep .env.example tracked)
+.env
+.env.*
+!.env.example
+*.local
+
+# Rsbuild / Rspack
+.rspack-profile-*/
+*.tsbuildinfo
+
+# Editor / IDE
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AI
+.claude/
